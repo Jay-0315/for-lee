@@ -41,10 +41,10 @@ src/main/resources/application.properties
 src/main/resources/application-*.properties
 
 ### Frontend ###
-frontend/node_modules/
-frontend/dist/
-frontend/.env
-frontend/.env.local
+kakeibo-front/node_modules/
+kakeibo-front/dist/
+kakeibo-front/.env
+kakeibo-front/.env.local
 
 ### Gradle build output (non-standard path) ###
 /C:/gradle-builds/
