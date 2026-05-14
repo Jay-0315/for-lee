@@ -48,6 +48,3 @@ kakeibo-front/.env.local
 
 ### Gradle build output (non-standard path) ###
 /C:/gradle-builds/
-
-### Claude ###
-.claude/
